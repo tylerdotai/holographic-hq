@@ -27,7 +27,7 @@ These define **what** we're building. The code implements **how**.
 **Unity Setup:**
 ```bash
 # Clone the repo
-git clone https://codeberg.org/tylerdotai/holographic-hq
+git clone https://github.com/tylerdotai/holographic-hq
 cd holographic-hq/Unity
 
 # You'll need:

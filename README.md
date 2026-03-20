@@ -442,7 +442,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 **Tyler Delano** - [@tylerdotai](https://x.com/tylerdotai) - tyler.delano@icloud.com
 
-**Project Link:** [https://codeberg.org/tylerdotai/holographic-hq](https://codeberg.org/tylerdotai/holographic-hq)
+**Project Link:** [https://github.com/tylerdotai/holographic-hq](https://github.com/tylerdotai/holographic-hq)
 
 **Status:** 🗓️ Planned — Sprint TBD
 
